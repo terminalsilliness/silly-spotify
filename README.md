@@ -7,10 +7,10 @@ A silly spotify theme built on the Subtle Outline theme. ONLY FOR MACOS
 ## Features
 
 1. Wikipedia Artist Biographies
-2. 
-
-
-
+2. Last.fm Home page
+3. Recoloured spotify
+4. Nicer top bar
+5. Customization
 
 ## Credits
 
