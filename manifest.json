@@ -1,0 +1,22 @@
+{
+  "name": "Reworked Spotify [MAC]",
+  "description": "A minimal, outlined dark rework of Spotify: redesigned home, artist, playlist, album and profile pages, a Wikipedia panel and themed menus",
+  "preview": "images/preview.png",
+  "readme": "README.md",
+  "usercss": "user.css",
+  "schemes": "color.ini",
+  "include": [
+    "https://raw.githubusercontent.com/terminalsilliness/reworked-spotify/main/reworked-spotify.js"
+  ],
+  "authors": [
+    {
+      "name": "terminalsilliness",
+      "url": "https://github.com/terminalsilliness"
+    }
+  ],
+  "tags": [
+    "dark",
+    "minimal",
+    "outline"
+  ]
+}
